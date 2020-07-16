@@ -1,0 +1,4 @@
+function desconectar()
+rosshutdown;
+end
+
